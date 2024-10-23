@@ -1,4 +1,4 @@
-import NextAuth, { NextAuthOptions, Session, TokenSet } from 'next-auth';
+import NextAuth, { NextAuthOptions, Session } from 'next-auth';
 import GoogleProvider from 'next-auth/providers/google';
 import FacebookProvider from 'next-auth/providers/facebook';
 import GitHubProvider from 'next-auth/providers/github';
