@@ -2,7 +2,6 @@
 
 import { useSession } from "next-auth/react";
 import AuthButton from '../components/AuthButton';
-import Signup from '@/components/SignupForm';
 import Signin from '@/components/SigninForm';
 
 export default function Home() {
